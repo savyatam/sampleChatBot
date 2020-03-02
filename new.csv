@@ -1,0 +1,72 @@
+Account Type,Personal,Account Holder's Name,,,,
+Opening Balance,50000,,,,,
+Transictions,,,,,,
+Date,Time,Type,Amount,Method,Account Type,Closing Balance
+20-02-2019,10.15,Debit,-1000,A/c transfer,Shoping,49000
+08-03-2019,12.25,Debit,-2000,Debit card,Travel,47000
+11-03-2019,14.35,Debit,-5000,Debit card,Food,42000
+14-03-2019,16.45,Debit,-10000,Debit card,Health,32000
+17-03-2019,18.55,Debit,-12000,Debit card,Education,20000
+20-03-2019,21.05,Debit,-15000,A/c transfer,Personal account,5000
+01-04-2019,23.15,Credit,40000,A/c transfer,Unknown,45000
+05-04-2019,8.2,Debit,-1200,A/c transfer,Travel,43800
+12-04-2019,10.3,Debit,-5000,Debit card,Travel,38800
+19-04-2019,12.4,Debit,-12000,UPI,Shoping,26800
+26-04-2019,14.5,Debit,-1300,Debit card,Food,25500
+30-04-2019,17,Debit,-15000,UPI,Personal account,10500
+01-05-2019,19.1,Credit,40000,A/c transfer,Unknown,50500
+11-05-2019,21.2,Debit,-20000,Debit card,Shoping,30500
+15-05-2019,23.3,Debit,-10000,UPI,Travel,20500
+19-05-2019,10.2,Debit,-5000,UPI,Food,15500
+23-05-2019,12.3,Debit,-1200,UPI,Health,14300
+27-05-2019,14.4,Debit,-10000,A/c transfer,Personal account,4300
+01-06-2019,8.1,Credit,40000,A/c transfer,Unknown,44300
+05-06-2019,10.2,Debit,-16000,Debit card,Shoping,28300
+12-06-2019,12.3,Debit,-12000,UPI,Food,16300
+19-06-2019,14.4,Debit,-1300,Debit card,Education,15000
+26-06-2019,16.5,Debit,-10000,Debit card,Personal account,5000
+30-07-2019,19,Debit,-2000,UPI,Unknown,3000
+01-07-2019,21.1,Credit,40000,UPI,Unknown,43000
+04-07-2019,23.2,Debit,-12000,Debit card,Shoping,31000
+11-07-2019,10.2,Debit,-15000,Debit card,Personal account,16000
+18-07-2019,12.3,Debit,-5000,UPI,Health,11000
+25-07-2019,14.4,Debit,-4000,UPI,Education,7000
+29-08-2019,8,Debit,-3000,A/c transfer,Food,4000
+01-08-2019,10.1,Credit,40000,A/c transfer,Unknown,44000
+05-08-2019,12.2,Debit,-15000,A/c transfer,Shoping,29000
+09-08-2019,14.3,Debit,-12000,Debit card,Travel,17000
+13-08-2019,16.4,Debit,-13000,UPI,Food,4000
+17-08-2019,18.5,Debit,-2000,Debit card,Health,2000
+21-08-2019,21,Debit,-1000,UPI,Education,1000
+01-09-2019,23.1,Credit,40000,A/c transfer,Unknown,41000
+06-09-2019,11.2,Debit,-1200,Debit card,Personal account,39800
+15-09-2019,12.2,Debit,-20000,UPI,Travel,19800
+20-09-2019,15.2,Debit,-12000,UPI,Travel,7800
+25-09-2019,10.5,Debit,-5000,UPI,Shoping,2800
+30-09-2019,10,Debit,-100,A/c transfer,Food,2700
+01-10-2019,12.1,Credit,40000,A/c transfer,Unknown,42700
+02-10-2019,14.2,Debit,-15000,Debit card,Personal account,27700
+08-10-2019,16.3,Debit,-1200,UPI,Shoping,26500
+14-10-2019,18.4,Debit,-1000,UPI,Travel,25500
+20-10-2019,20.5,Debit,-10000,Debit card,Food,15500
+26-10-2019,23,Debit,-5000,UPI,Health,10500
+01-11-2019,9.15,Credit,40000,A/c transfer,Unknown,50500
+03-11-2019,8.3,Debit,-5000,A/c transfer,Health,45500
+09-11-2019,10.2,Debit,-20000,Debit card,Shoping,25500
+15-11-2019,7.4,Debit,-15000,UPI,Food,10500
+21-11-2019,9.5,Debit,-200,Debit card,Education,10300
+27-11-2019,12,Debit,-1000,UPI,Personal account,9300
+01-12-2019,14.1,Credit,40000,A/c transfer,Unknown,49300
+05-12-2019,16.2,Debit,-5000,Debit card,Health,44300
+10-12-2019,18.3,Debit,-13000,UPI,Shoping,31300
+15-12-2019,20.4,Debit,-15000,UPI,Personal account,16300
+20-12-2019,22.5,Debit,-1200,UPI,Health,15100
+25-12-2019,12.2,Debit,-800,A/c transfer,Education,14300
+01-01-2020,7.1,Credit,40000,A/c transfer,Unknown,54300
+06-01-2020,10.2,Debit,-20000,Debit card,Shoping,34300
+12-01-2020,7.3,Debit,-15000,UPI,Shoping,19300
+18-01-2020,9.4,Debit,-5000,Debit card,Travel,14300
+24-01-2020,11.5,Debit,-12000,Debit card,Food,2300
+30-01-2020,14,Debit,-2000,UPI,Health,300
+01-02-2020,16.1,Credit,40000,UPI,Unknown,40300
+07-02-2020,18.2,Debit,-10000,Debit card,Personal account,30300
