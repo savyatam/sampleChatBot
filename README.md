@@ -6,7 +6,6 @@
 
 *host-heroku(https://whchbot.herokuapp.com/)
 
-*NLP engine-wit.ai
 
 Bot feature:
 
