@@ -11,4 +11,4 @@ var port = process.env.PORT || 3000;
 app.use('/dogs',  dogs);
 app.use('/',both.router);
 both.fnc()
-app.listen(3000);
+app.listen(port);
